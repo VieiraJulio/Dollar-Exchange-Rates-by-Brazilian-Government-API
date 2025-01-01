@@ -7,11 +7,12 @@ Nosso foco será desde a implementação do Plano Real segregado por tipo de gov
 
 ### Organização do projeto 
 
+```
 ├── .gitignore    <- Arquivos e diretórios a serem ignorados pelo Git  
 ├── LICENSE       <- Licença de código aberto (MIT)  
 ├── README.md     <- README principal para desenvolvedores que utilizam este projeto  
 ├── notebooks     <- Cadernos Jupyter contendo análises e experimentos chamado : API FRED - Presidentes   
-
+```
 
 ### Detalhes das métricas utilizadas
 
