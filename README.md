@@ -82,15 +82,11 @@ Em 2023, com o retorno de Lula ao poder, o dólar atingiu um recorde histórico 
 ![image](https://github.com/user-attachments/assets/2f894ec4-a85e-48a8-bc05-00fec6f7d167)
 
 
-## 
+### Como Reproduzir o Projeto
 
+ - Baixar o arquivo ipynb no repositório.
+ - Instalar a biblioteca Request:
 
-
-
-
-
-
-
-
-
- 
+   ``` ! pip install request ```
+   
+ - Criar sua Key para conectar na API. Coloquei minha chave em um arquivo .env para maior segurança.
