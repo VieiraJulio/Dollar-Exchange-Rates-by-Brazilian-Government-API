@@ -13,7 +13,7 @@ Nosso foco será desde a implementação do Plano Real segregado por tipo de gov
 ├── LICENSE       <- Licença de código aberto (MIT)  
 ├── README.md     <- README principal para desenvolvedores que utilizam este projeto  
 ├── notebooks     <- Cadernos Jupyter contendo análises e experimentos.
-       ├── API FRED - Presidentes
+       ├── API (FRED).ipynb
 
 ├── images        <- Imagens usadas no README.
        ├── Gráfico Final.png
