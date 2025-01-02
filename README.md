@@ -14,6 +14,10 @@ Nosso foco será desde a implementação do Plano Real segregado por tipo de gov
 ├── README.md     <- README principal para desenvolvedores que utilizam este projeto  
 ├── notebooks     <- Cadernos Jupyter contendo análises e experimentos.
        ├── API FRED - Presidentes
+
+├── images        <- Imagens usadas no README.
+       ├── Gráfico Final.png
+
 ```
 
 ### Detalhes das métricas utilizadas
