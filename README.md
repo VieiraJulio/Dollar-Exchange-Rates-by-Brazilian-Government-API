@@ -87,6 +87,14 @@ Em 2023, com o retorno de Lula ao poder, o dólar atingiu um recorde histórico 
 
 ![image](https://github.com/user-attachments/assets/2f894ec4-a85e-48a8-bc05-00fec6f7d167)
 
+Imaginar um Brasil financeiramente estável e plenamente desenvolvido é um desafio quando enfrentamos políticas públicas marcadas por ineficiências e falta de direcionamento estratégico. A ausência de soluções eficazes para questões sociais, econômicas e educacionais perpetua um ciclo que dificulta o progresso do país. Nesse cenário, fica claro que a mudança não pode vir apenas de reformas governamentais, mas deve começar em cada indivíduo, por meio do desenvolvimento pessoal e da educação contínua.
+
+O filósofo Immanuel Kant afirmava: "A educação é o desenvolvimento, no homem, de toda perfeição que sua natureza é capaz de alcançar." Esse conceito vai além da simples aquisição de conhecimento acadêmico. Trata-se de despertar no ser humano um senso crítico, ético e criativo, elementos essenciais para a construção de uma sociedade mais justa e consciente.
+
+Quando cada cidadão assume o compromisso de investir em seu crescimento, essa transformação não permanece no campo individual. Ela reverbera no coletivo, gerando impactos positivos na cultura, nas instituições e até mesmo nas futuras escolhas políticas. Líderes eleitos são reflexo das aspirações e valores da sociedade, e quando essa sociedade prioriza a educação e o desenvolvimento ético, suas ações e decisões também tendem a se alinhar com esses princípios.
+
+Portanto, investir em nós mesmos não é apenas uma necessidade pessoal, mas um ato de responsabilidade social. Ao nos tornarmos agentes de mudança, contribuímos para a criação de um país mais consciente, próspero e justo para as futuras gerações.
+
 
 ### Como Reproduzir o Projeto
 
